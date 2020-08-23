@@ -1,0 +1,8 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+58595.1530556,V-crts,,,,,21.5,Vega,,2,,MJD,True
+58608.2804977,V-crts,,,,,19.9,Vega,,2,,MJD,
+58680.2519907,z,,,0.09,,19.3,,PS1,2,,MJD,
+58680.2524315178,z,,,0.0860108,,19.2994,,Pan-STARRS1,3,,MJD,
+58682.2435469501,y,,,0.15427,,19.5376,,Pan-STARRS1,3,,MJD,
+58682.2511533969,z,,,0.0614317,,19.3124,,Pan-STARRS1,3,,MJD,
+58684.2555308785,z,,,0.0650377,,19.315,,Pan-STARRS1,3,,MJD,

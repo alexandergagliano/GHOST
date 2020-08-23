@@ -1,0 +1,6 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+55873.5,,,,,,15.9,,,"4,6",,MJD,
+55881.47,H,Johnson-Cousins,,0.045,,15.879,WHIRC,WIYN 3.5 m,3,,MJD,
+55881.50,J,Johnson-Cousins,,0.040,,17.036,WHIRC,WIYN 3.5 m,3,,MJD,
+55904.30,H,Johnson-Cousins,,0.057,,16.879,WHIRC,WIYN 3.5 m,3,,MJD,
+55904.32,J,Johnson-Cousins,,0.051,,18.237,WHIRC,WIYN 3.5 m,3,,MJD,

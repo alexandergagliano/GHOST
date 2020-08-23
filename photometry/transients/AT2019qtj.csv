@@ -1,0 +1,4 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+58512.0368403,C,,,,,20,Vega,,2,,MJD,True
+58749.2215741,C,,,,,18.4,Vega,,2,,MJD,
+58749.235463,C,,,,,18.4,Vega,,2,,MJD,

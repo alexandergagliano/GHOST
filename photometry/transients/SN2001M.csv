@@ -1,0 +1,5 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+51930.43,clear,,,0.06,,17.39,,kait,"1,13",,MJD,
+51931.44,clear,,,0.06,,17.35,,kait,"1,13",,MJD,
+51937.46,clear,,,0.06,,17.47,,kait,"1,13",,MJD,
+51943.39,clear,,,0.11,,17.54,,kait,"1,13",,MJD,

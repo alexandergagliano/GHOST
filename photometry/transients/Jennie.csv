@@ -1,0 +1,16 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+53564.242,F850LP,,,,,25.70013,,Hubble,3,,MJD,True
+53589.918,F850LP,,,,,25.7358,,Hubble,3,,MJD,True
+53610.902,F850LP,,,,,25.75505,,Hubble,3,,MJD,True
+53633.285,F850LP,,,,,25.51861,,Hubble,3,,MJD,True
+53633.301,F775W,,,,,25.2199,,Hubble,3,,MJD,True
+53654.539,F850LP,,,,,25.5896,,Hubble,3,,MJD,True
+53654.555,F775W,,,,,25.44092,,Hubble,3,,MJD,True
+53965.84,F850LP,,,,,24.3012,,Hubble,3,,MJD,
+53965.852,F775W,,,,,25.0226,,Hubble,3,,MJD,
+53983.387,F850LP,,,,,24.8610,,Hubble,3,,MJD,
+53983.395,F775W,,,,,25.9336,,Hubble,3,,MJD,
+53994.379,F850LP,,,,,25.3555,,Hubble,3,,MJD,True
+53994.418,F775W,,,,,25.34759,,Hubble,3,,MJD,True
+54016.164,F850LP,,,,,25.4221,,Hubble,3,,MJD,True
+54016.176,F775W,,,,,26.2173,,Hubble,3,,MJD,True

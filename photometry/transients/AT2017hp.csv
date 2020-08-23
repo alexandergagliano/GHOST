@@ -1,0 +1,4 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+57756.5,,,,,,18.8,,,"2,3",,MJD,
+57757.505,cyan,,,,,19.7,,ATLAS1,2,,MJD,True
+57757.515,cyan,,,0.13,,18.82,,ATLAS1,2,,MJD,

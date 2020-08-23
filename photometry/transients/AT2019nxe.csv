@@ -1,0 +1,5 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+58711.312,z,,,0.04,,22.13,,CTIO-4m,2,,MJD,
+58712.2,i,,,0.02,,21.16,,CTIO-4m,2,,MJD,
+58712.285,z,,,0.04,,22.1,,CTIO-4m,2,,MJD,
+58713.33,z,,,0.03,,21.84,,CTIO-4m,2,,MJD,

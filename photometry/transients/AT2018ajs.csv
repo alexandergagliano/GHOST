@@ -1,0 +1,3 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+58183.48,orange,,,,,18.34,,ATLAS1,2,,MJD,True
+58183.4829977,orange,,,0.197,,18.461,,ATLAS1,2,,MJD,

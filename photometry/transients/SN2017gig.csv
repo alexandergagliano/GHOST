@@ -1,0 +1,3 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+57982.7509954,g-SM,,,,,20.51,,SkyMapper 1.35m,3,,MJD,True
+57988.7309954,r-SM,,,,,19.09,,SkyMapper 1.35m,3,,MJD,

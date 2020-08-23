@@ -1,0 +1,51 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+55373.402,R,,,,,20.757,AB,p48,3,,MJD,True
+55373.446,R,,,,,20.971,AB,p48,3,,MJD,True
+55379.218,R,,,,,20.195,AB,p48,3,,MJD,
+55379.263,R,,,,,20.217,AB,p48,3,,MJD,
+55384.215,R,,,,,18.9076,AB,p48,3,,MJD,
+55384.258,R,,,,,18.9921,AB,p48,3,,MJD,
+55386.39,H,,,0.039,,18.694,Natural,Gemini North 8.2m,8,,MJD,
+55386.39,J,,,0.044,,18.586,Natural,Gemini North 8.2m,8,,MJD,
+55387.33,H,,,0.041,,18.500,Natural,Gemini North 8.2m,8,,MJD,
+55389.279,R,,,,,18.5594,AB,p48,3,,MJD,
+55389.35,H,,,0.035,,18.571,Natural,Gemini North 8.2m,8,,MJD,
+55389.470,R,,,,,18.5420,AB,p48,3,,MJD,
+55393.36,H,,,0.044,,18.770,Natural,Gemini North 8.2m,8,,MJD,
+55393.36,J,,,0.073,,18.912,Natural,Gemini North 8.2m,8,,MJD,
+55395.364,R,,,,,18.4460,AB,p48,3,,MJD,
+55395.37,H,,,0.057,,18.791,Natural,Gemini North 8.2m,8,,MJD,
+55395.37,J,,,0.059,,19.050,Natural,Gemini North 8.2m,8,,MJD,
+55395.409,R,,,,,18.4323,AB,p48,3,,MJD,
+55400.372,R,,,,,18.5968,AB,p48,3,,MJD,
+55400.416,R,,,,,18.6640,AB,p48,3,,MJD,
+55461.174,R,,,,,21.059,AB,p48,3,,MJD,True
+55461.218,R,,,,,20.689,AB,p48,3,,MJD,True
+55464.186,R,,,,,20.900,AB,p48,3,,MJD,True
+55464.230,R,,,,,20.660,AB,p48,3,,MJD,True
+55479.142,R,,,,,21.330,AB,p48,3,,MJD,True
+55479.186,R,,,,,21.140,AB,p48,3,,MJD,True
+55724.377,R,,,,,21.1883,AB,p48,3,,MJD,True
+55724.421,R,,,,,21.45,AB,p48,3,,MJD,True
+55732.321,R,,,,,21.28,AB,p48,3,,MJD,True
+55732.365,R,,,,,21.353,AB,p48,3,,MJD,True
+55735.366,R,,,,,21.48,AB,p48,3,,MJD,True
+55735.409,R,,,,,21.44,AB,p48,3,,MJD,True
+55751.387,R,,,,,21.34,AB,p48,3,,MJD,True
+55751.439,R,,,,,21.258,AB,p48,3,,MJD,True
+55758.288,R,,,,,21.07,AB,p48,3,,MJD,True
+55784.223,R,,,,,21.070,AB,p48,3,,MJD,True
+55784.266,R,,,,,21.08,AB,p48,3,,MJD,True
+55789.193,R,,,,,21.218,AB,p48,3,,MJD,True
+55789.237,R,,,,,21.18,AB,p48,3,,MJD,True
+55792.185,R,,,,,21.46,AB,p48,3,,MJD,True
+55792.239,R,,,,,21.35,AB,p48,3,,MJD,True
+55824.155,R,,,,,21.35,AB,p48,3,,MJD,True
+55824.219,R,,,,,21.27,AB,p48,3,,MJD,True
+55842.151,R,,,,,20.872,AB,p48,3,,MJD,True
+55843.121,R,,,,,20.972,AB,p48,3,,MJD,True
+55843.166,R,,,,,20.8040,AB,p48,3,,MJD,True
+55850.128,R,,,,,21.33,AB,p48,3,,MJD,True
+55850.172,R,,,,,21.16,AB,p48,3,,MJD,True
+55853.128,R,,,,,21.290,AB,p48,3,,MJD,True
+55853.172,R,,,,,21.16,AB,p48,3,,MJD,True

@@ -1,0 +1,13 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+52450.28,clear,,,0.04,,15.88,,kait,"1,13",,MJD,
+52450.3,C,,,,,15.9,,,"8,11",,MJD,
+52451.26,clear,,,0.03,,15.82,,kait,"1,13",,MJD,
+52451.3,C,,,,,15.9,,,"8,11",,MJD,
+52455.12,C,,,,,17.15,,,"8,11",,MJD,
+52456.16,R,,,,,15.98,,,"8,11",,MJD,
+52456.25,clear,,,0.04,,15.71,,kait,"1,13",,MJD,
+52457.26,clear,,,0.02,,15.74,,kait,"1,13",,MJD,
+52459.89,R,,,,,16.4,,,"8,11",,MJD,
+52465.89,R,,,,,16.2,,,"8,11",,MJD,
+52467.19,clear,,,0.03,,15.64,,kait,"1,13",,MJD,
+52480.18,clear,,,0.03,,15.89,,kait,"1,13",,MJD,

@@ -1,0 +1,7 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+,C,,,1.0,,18.8,,Catalina Schmidt,2,,,
+58022.5,C,,,0.135500502482,,19.9852,,Catalina Schmidt,2,,MJD,
+58022.5,C,,,0.142959655589,,20.0849,,Catalina Schmidt,2,,MJD,
+58022.5,C,,,0.148248489653,,20.1564,,Catalina Schmidt,2,,MJD,
+58022.5,C,,,0.163398572547,,20.46,,Catalina Schmidt,2,,MJD,
+58040.5,C,,,0.275313551077,,22.0785,,Catalina Schmidt,2,,MJD,

@@ -1,0 +1,5 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+57365.2590210689,w,,,0.0655173,,20.9739,,Pan-STARRS1,2,,MJD,
+57365.2712969853,w,,,0.0553393,,20.9286,,Pan-STARRS1,2,,MJD,
+57365.2835419625,w,,,0.0640051,,21.0069,,Pan-STARRS1,2,,MJD,
+57365.2958733298,w,,,0.0678318,,21.138,,Pan-STARRS1,2,,MJD,

@@ -1,0 +1,17 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+,C,,,1.0,,16.0,,Catalina Schmidt,2,,,
+57891.8279977,G,,,,,21.5,,Gaia,5,,MJD,True
+57932.2309954,G,,,0.2,,18.87,,Gaia,5,,MJD,
+57932.232,G,,,0.0,,18.90,,GAIA,4,,MJD,
+57932.483,G,,,0.0,,18.86,,GAIA,4,,MJD,
+57932.557,G,,,0.0,,18.92,,GAIA,4,,MJD,
+57932.733,G,,,0.0,,18.87,,GAIA,4,,MJD,
+57932.807,G,,,0.0,,18.94,,GAIA,4,,MJD,
+57933.5,C,,,0.078002890027,,18.6284,,Catalina Schmidt,2,,MJD,
+57933.5,C,,,0.078212505586,,18.644,,Catalina Schmidt,2,,MJD,
+57933.5,C,,,0.0810066994167,,18.7809,,Catalina Schmidt,2,,MJD,
+57933.5,C,,,0.0814542616373,,18.8085,,Catalina Schmidt,2,,MJD,
+57938.737,G,,,0.0,,19.10,,GAIA,4,,MJD,
+57938.811,G,,,0.0,,19.14,,GAIA,4,,MJD,
+57938.987,G,,,0.0,,19.12,,GAIA,4,,MJD,
+57939.237,G,,,0.0,,19.17,,GAIA,4,,MJD,

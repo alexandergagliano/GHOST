@@ -1,0 +1,26 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+52547.109100,I,,,,,21.7326,Natural,CTIO 4m,1,,MJD,True
+52547.119300,R,,,,,22.6023,Natural,CTIO 4m,1,,MJD,True
+52547.128000,I,,,,,22.4643,Natural,CTIO 4m,1,,MJD,True
+52551.177200,R,,,,,22.4579,Natural,CTIO 4m,1,,MJD,True
+52561.142800,R,,,,,23.3764,Natural,CTIO 4m,1,,MJD,True
+52583.174600,R,,,,,23.8808,Natural,CTIO 4m,1,,MJD,True
+52583.179200,I,,,,,23.2334,Natural,CTIO 4m,1,,MJD,True
+52589.146600,R,,,,,24.1588,Natural,CTIO 4m,1,,MJD,True
+52589.151300,I,,,,,23.6185,Natural,CTIO 4m,1,,MJD,True
+52593.157100,R,,,,,22.9715,Natural,CTIO 4m,1,,MJD,True
+52593.161700,I,,,,,22.7848,Natural,CTIO 4m,1,,MJD,True
+52593.168700,I,,,,,22.7638,Natural,CTIO 4m,1,,MJD,True
+52606.173300,R,,,,,24.2997,Natural,CTIO 4m,1,,MJD,True
+52606.178000,I,,,,,23.7957,Natural,CTIO 4m,1,,MJD,True
+52614.181200,R,,,,,23.8944,Natural,CTIO 4m,1,,MJD,True
+52614.185100,I,,,,,23.4384,Natural,CTIO 4m,1,,MJD,True
+52618.125200,R,,,,,23.7506,Natural,CTIO 4m,1,,MJD,True
+52618.129800,I,,,,,23.4362,Natural,CTIO 4m,1,,MJD,True
+52622.116300,R,,,,,23.5003,Natural,CTIO 4m,1,,MJD,True
+52622.121100,I,,,,,22.7322,Natural,CTIO 4m,1,,MJD,True
+52637.141200,R,,,,,24.3091,Natural,CTIO 4m,1,,MJD,True
+52637.145900,I,,,,,23.2409,Natural,CTIO 4m,1,,MJD,True
+52637.151100,I,,,,,23.5744,Natural,CTIO 4m,1,,MJD,True
+52642.134200,R,,,,,24.2080,Natural,CTIO 4m,1,,MJD,True
+54099.146300,I,,,,,22.1378,Natural,CTIO 4m,1,,MJD,True

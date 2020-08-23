@@ -1,0 +1,9 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+22013.0,pg,,,,,12.3,,,"9,12,19",,MJD,
+22020.0,pg,,,,,12.4,,,"9,12,19",,MJD,
+22031.0,pg,,,,,11.5,,,"11,19",,MJD,
+22039.0,pg,,,,,12.2,,,"11,19",,MJD,
+22039.0,pg,,,,,14.5,,,"9,12,19",,MJD,
+22380.0,pg,,,,,19.5,,,"9,12,19",,MJD,
+22399.0,pg,,,,,20.0,,,"9,12,19",,MJD,
+22408,,,,,,11.0,,,10,,MJD,

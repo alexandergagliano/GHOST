@@ -1,0 +1,35 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+52194.9999,C,,,,,20.52,,Palomar 1.2 m,7,,MJD,True
+52223.7479,C,,,,,20.44,,Palomar 1.2 m,7,,MJD,True
+52249.7492,C,,,,,21.01,,Palomar 1.2 m,7,,MJD,True
+52576.9982,C,,,,,20.29,,Haleakala 1.2 m,7,,MJD,True
+52590.7465,C,,,,,19.04,,Palomar 1.2 m,7,,MJD,
+52597.7519,C,,,,,18.20,,Palomar 1.2 m,7,,MJD,
+52598.8306,C,,,,,18.11,,Palomar 1.2 m,7,,MJD,
+52627.5956,C,,,,,18.12,,Palomar 1.2 m,7,,MJD,
+52655.7508,C,,,,,18.06,,Haleakala 1.2 m,7,,MJD,
+52673.7524,C,,,,,18.47,,Haleakala 1.2 m,7,,MJD,
+52679.7519,C,,,,,18.53,,Haleakala 1.2 m,7,,MJD,
+52806.60,,,33.0,,25.0,,,,1,µJy,MJD,
+52807.80,,,157.0,,-202.0,,,,1,µJy,MJD,
+52828.5,V,,,,,19.05,,VLT,7,,MJD,
+52849.0003,C,,,,,18.88,,Haleakala 1.2 m,7,,MJD,True
+52849.5,V,,,,,19.22,,VLT,7,,MJD,
+52851.5,V,,,,,19.15,,VLT,7,,MJD,
+52852.9994,C,,,,,18.54,,Haleakala 1.2 m,7,,MJD,True
+52854.9963,C,,,,,19.32,,Haleakala 1.2 m,7,,MJD,True
+52857.9986,C,,,,,19.23,,Haleakala 1.2 m,7,,MJD,True
+52859.9992,C,,,,,18.74,,Haleakala 1.2 m,7,,MJD,True
+52864.0017,C,,,,,17.17,,Haleakala 1.2 m,7,,MJD,True
+52873.9982,C,,,,,19.05,,Haleakala 1.2 m,7,,MJD,
+52875.9998,C,,,,,19.15,,Haleakala 1.2 m,7,,MJD,
+52901.9989,C,,,,,19.29,,Palomar 1.2 m,7,,MJD,
+52902.9138,C,,,,,19.47,,Palomar 1.2 m,7,,MJD,
+52911.5,V,,,,,19.30,,VLT,7,,MJD,
+52931.7942,C,,,,,19.42,,Palomar 1.2 m,7,,MJD,
+53386,I1,,,0.20,,16.61,,Spitzer,3,,MJD,
+53386,I2,,,0.20,,15.73,,Spitzer,3,,MJD,
+53770,I1,,,0.12,,17.58,,Spitzer,3,,MJD,
+53770,I2,,,0.05,,16.58,,Spitzer,3,,MJD,
+53961,I1,,,0.14,,17.98,,Spitzer,3,,MJD,
+53961,I2,,,0.14,,16.95,,Spitzer,3,,MJD,

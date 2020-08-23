@@ -1,0 +1,11 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+52545.3,V,Johnson-Cousins,,0.033,,20.475,Vega,,1,,MJD,
+52547.2,V,Johnson-Cousins,,0.023,,20.536,Vega,,1,,MJD,
+52548.3,V,Johnson-Cousins,,0.043,,20.569,Vega,,1,,MJD,
+52555.3,V,Johnson-Cousins,,0.044,,20.640,Vega,,1,,MJD,
+52561.3,V,Johnson-Cousins,,0.021,,20.770,Vega,,1,,MJD,
+52572.2,V,Johnson-Cousins,,0.050,,21.001,Vega,,1,,MJD,
+52576.2,V,Johnson-Cousins,,0.016,,21.164,Vega,,1,,MJD,
+52577.2,V,Johnson-Cousins,,0.033,,21.178,Vega,,1,,MJD,
+52585.1,V,Johnson-Cousins,,0.059,,21.620,Vega,,1,,MJD,
+52588.2,V,Johnson-Cousins,,0.036,,21.975,Vega,,1,,MJD,

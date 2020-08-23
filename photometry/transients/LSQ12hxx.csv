@@ -1,0 +1,112 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+56267.115,gr,,,,,21.90,,,3,,MJD,True
+56267.199,gr,,,,,21.46,,,3,,MJD,True
+56269.113,gr,,,,,21.46,,,3,,MJD,True
+56269.197,gr,,,,,21.79,,,3,,MJD,True
+56271.116,gr,,,,,21.715,,,3,,MJD,True
+56271.199,gr,,,,,21.70,,,3,,MJD,True
+56273.107,gr,,,,,21.81,,,3,,MJD,True
+56273.192,gr,,,,,21.87,,,3,,MJD,True
+56277.096,gr,,,,,20.070,,,3,,MJD,
+56277.179,gr,,,,,20.020,,,3,,MJD,
+56279.097,gr,,,,,19.3376,,,3,,MJD,
+56279.181,gr,,,,,19.3373,,,3,,MJD,
+56283.087,gr,,,,,18.5142,,,3,,MJD,
+56283.172,gr,,,,,18.4815,,,3,,MJD,
+56284.067,gr,,,,,18.3716,,,3,,MJD,
+56284.151,gr,,,,,18.4245,,,3,,MJD,
+56286.068,gr,,,,,18.2744,,,3,,MJD,
+56286.152,gr,,,,,18.2010,,,3,,MJD,
+56288.16094,i,,,0.022,,18.719,Swope,ESO Schmidt,2,,MJD,
+56288.16786,r,,,0.013,,18.197,Swope,ESO Schmidt,2,,MJD,
+56288.17439,V,,,0.015,,18.211,Swope,ESO Schmidt,2,,MJD,
+56288.18071,B,,,0.017,,18.256,Swope,ESO Schmidt,2,,MJD,
+56289.06573,i,,,0.023,,18.701,Swope,ESO Schmidt,2,,MJD,
+56289.07188,r,,,0.014,,18.169,Swope,ESO Schmidt,2,,MJD,
+56289.08038,V,,,0.018,,18.198,Swope,ESO Schmidt,2,,MJD,
+56289.08637,B,,,0.017,,18.187,Swope,ESO Schmidt,2,,MJD,
+56290.073,gr,,,,,18.2045,,,3,,MJD,
+56290.08022,r,,,0.014,,18.177,Swope,ESO Schmidt,2,,MJD,
+56290.08458,i,,,0.019,,18.724,Swope,ESO Schmidt,2,,MJD,
+56290.08929,V,,,0.017,,18.192,Swope,ESO Schmidt,2,,MJD,
+56290.09412,B,,,0.017,,18.264,Swope,ESO Schmidt,2,,MJD,
+56290.156,gr,,,,,18.1110,,,3,,MJD,
+56291.07985,V,,,0.015,,18.195,Swope,ESO Schmidt,2,,MJD,
+56291.1131,r,,,0.018,,18.133,Swope,ESO Schmidt,2,,MJD,
+56291.11747,i,,,0.03,,18.705,Swope,ESO Schmidt,2,,MJD,
+56291.17691,B,,,0.017,,18.261,Swope,ESO Schmidt,2,,MJD,
+56292.070,gr,,,,,18.1674,,,3,,MJD,
+56292.12249,i,,,0.025,,18.727,Swope,ESO Schmidt,2,,MJD,
+56292.1272,r,,,0.023,,18.132,Swope,ESO Schmidt,2,,MJD,
+56292.13297,V,,,0.015,,18.186,Swope,ESO Schmidt,2,,MJD,
+56292.13758,B,,,0.015,,18.303,Swope,ESO Schmidt,2,,MJD,
+56292.154,gr,,,,,18.1698,,,3,,MJD,
+56293.16169,i,,,0.021,,18.789,Swope,ESO Schmidt,2,,MJD,
+56293.16759,r,,,0.021,,18.121,Swope,ESO Schmidt,2,,MJD,
+56293.17473,V,,,0.015,,18.206,Swope,ESO Schmidt,2,,MJD,
+56293.18112,B,,,0.015,,18.301,Swope,ESO Schmidt,2,,MJD,
+56294.12414,B,,,0.013,,18.346,Swope,ESO Schmidt,2,,MJD,
+56294.12877,V,,,0.014,,18.238,Swope,ESO Schmidt,2,,MJD,
+56294.13363,r,,,0.015,,18.157,Swope,ESO Schmidt,2,,MJD,
+56294.13823,i,,,0.025,,18.76,Swope,ESO Schmidt,2,,MJD,
+56295.12565,r,,,0.024,,18.131,Swope,ESO Schmidt,2,,MJD,
+56295.13125,i,,,0.018,,18.785,Swope,ESO Schmidt,2,,MJD,
+56295.13683,V,,,0.012,,18.246,Swope,ESO Schmidt,2,,MJD,
+56295.14321,B,,,0.01,,18.41,Swope,ESO Schmidt,2,,MJD,
+56296.06212,i,,,0.029,,18.753,Swope,ESO Schmidt,2,,MJD,
+56296.06679,r,,,0.013,,18.151,Swope,ESO Schmidt,2,,MJD,
+56296.07249,V,,,0.011,,18.275,Swope,ESO Schmidt,2,,MJD,
+56296.07795,B,,,0.01,,18.461,Swope,ESO Schmidt,2,,MJD,
+56296.128,gr,,,,,18.3103,,,3,,MJD,
+56296.130,gr,,,,,18.3133,,,3,,MJD,
+56297.09598,r,,,0.012,,18.197,Swope,ESO Schmidt,2,,MJD,
+56297.10142,i,,,0.019,,18.787,Swope,ESO Schmidt,2,,MJD,
+56297.10629,V,,,0.011,,18.292,Swope,ESO Schmidt,2,,MJD,
+56297.11236,B,,,0.011,,18.489,Swope,ESO Schmidt,2,,MJD,
+56298.132,gr,,,,,18.3245,,,3,,MJD,
+56298.134,gr,,,,,18.4029,,,3,,MJD,
+56300.07713,r,,,0.009,,18.346,Swope,ESO Schmidt,2,,MJD,
+56300.08347,i,,,0.02,,18.957,Swope,ESO Schmidt,2,,MJD,
+56300.09058,V,,,0.011,,18.422,Swope,ESO Schmidt,2,,MJD,
+56300.09682,B,,,0.012,,18.699,Swope,ESO Schmidt,2,,MJD,
+56300.134,gr,,,,,18.4700,,,3,,MJD,
+56300.137,gr,,,,,18.4949,,,3,,MJD,
+56302.136,gr,,,,,18.6135,,,3,,MJD,
+56302.138,gr,,,,,18.588,,,3,,MJD,
+56304.1108,r,,,0.01,,18.617,Swope,ESO Schmidt,2,,MJD,
+56304.11721,i,,,0.023,,19.366,Swope,ESO Schmidt,2,,MJD,
+56304.12359,V,,,0.023,,18.655,Swope,ESO Schmidt,2,,MJD,
+56304.12997,B,,,0.014,,19.093,Swope,ESO Schmidt,2,,MJD,
+56307.09784,r,,,0.016,,18.738,Swope,ESO Schmidt,2,,MJD,
+56307.10394,i,,,0.021,,19.394,Swope,ESO Schmidt,2,,MJD,
+56307.11037,V,,,0.014,,18.848,Swope,ESO Schmidt,2,,MJD,
+56307.11653,B,,,0.019,,19.439,Swope,ESO Schmidt,2,,MJD,
+56308.145,gr,,,,,19.0643,,,3,,MJD,
+56310.0873,V,,,0.017,,19.037,Swope,ESO Schmidt,2,,MJD,
+56310.09427,B,,,0.025,,19.765,Swope,ESO Schmidt,2,,MJD,
+56310.1014,r,,,0.012,,18.829,Swope,ESO Schmidt,2,,MJD,
+56310.10755,i,,,0.025,,19.343,Swope,ESO Schmidt,2,,MJD,
+56314.06322,r,,,0.026,,18.952,Swope,ESO Schmidt,2,,MJD,
+56314.07008,i,,,0.029,,19.302,Swope,ESO Schmidt,2,,MJD,
+56314.0783,V,,,0.027,,19.279,Swope,ESO Schmidt,2,,MJD,
+56314.08441,B,,,0.056,,20.204,Swope,ESO Schmidt,2,,MJD,
+56647.089,gr,,,,,21.76,,,3,,MJD,True
+56647.172,gr,,,,,21.25,,,3,,MJD,True
+56649.086,gr,,,,,22.00,,,3,,MJD,True
+56649.170,gr,,,,,21.314,,,3,,MJD,True
+56651.086,gr,,,,,21.98,,,3,,MJD,True
+56651.169,gr,,,,,21.64,,,3,,MJD,True
+56653.134,gr,,,,,21.780,,,3,,MJD,True
+56653.136,gr,,,,,21.963,,,3,,MJD,True
+56655.136,gr,,,,,21.994,,,3,,MJD,True
+56655.138,gr,,,,,22.022,,,3,,MJD,True
+56657.138,gr,,,,,21.892,,,3,,MJD,True
+56657.141,gr,,,,,21.932,,,3,,MJD,True
+56659.057,gr,,,,,21.627,,,3,,MJD,True
+56659.140,gr,,,,,21.97,,,3,,MJD,True
+56661.134,gr,,,,,21.862,,,3,,MJD,True
+56661.136,gr,,,,,21.902,,,3,,MJD,True
+56663.137,gr,,,,,21.82,,,3,,MJD,True
+56663.139,gr,,,,,21.81,,,3,,MJD,True
+56665.138,gr,,,,,21.62,,,3,,MJD,True
+56665.140,gr,,,,,21.476,,,3,,MJD,True

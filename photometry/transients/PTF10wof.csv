@@ -1,0 +1,28 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+55455.423,R,,,,,21.64,AB,p48,3,,MJD,True
+55455.493,R,,,,,21.48,AB,p48,3,,MJD,True
+55459.157,R,,,,,20.751,AB,p48,3,,MJD,
+55459.201,R,,,,,20.998,AB,p48,3,,MJD,True
+55465.283,R,,,,,18.7000,AB,p48,3,,MJD,
+55465.326,R,,,,,18.6772,AB,p48,3,,MJD,
+55469.152,R,,,,,18.2911,AB,p48,3,,MJD,
+55469.195,R,,,,,18.2671,AB,p48,3,,MJD,
+55470.33,H,,,0.033,,18.488,Natural,Gemini North 8.2m,7,,MJD,
+55470.33,J,,,0.030,,18.323,Natural,Gemini North 8.2m,7,,MJD,
+55473.243,R,,,,,18.0210,AB,p48,3,,MJD,
+55473.29,H,,,0.042,,18.592,Natural,Gemini North 8.2m,7,,MJD,
+55473.29,J,,,0.039,,18.438,Natural,Gemini North 8.2m,7,,MJD,
+55473.290,R,,,,,18.0268,AB,p48,3,,MJD,
+55478.24,H,,,0.051,,18.855,Natural,Gemini North 8.2m,7,,MJD,
+55478.24,J,,,0.063,,18.726,Natural,Gemini North 8.2m,7,,MJD,
+55478.335,R,,,,,18.0135,AB,p48,3,,MJD,
+55478.382,R,,,,,18.0226,AB,p48,3,,MJD,
+55483.137,R,,,,,18.1787,AB,p48,3,,MJD,
+55483.185,R,,,,,18.2299,AB,p48,3,,MJD,
+55483.29,H,,,0.061,,19.173,Natural,Gemini North 8.2m,7,,MJD,
+55483.29,J,,,0.071,,19.308,Natural,Gemini North 8.2m,7,,MJD,
+55499.156,R,,,,,18.8796,AB,p48,3,,MJD,
+55499.198,R,,,,,18.8529,AB,p48,3,,MJD,
+56178.150,R,,,,,21.306,AB,p48,3,,MJD,True
+56178.179,R,,,,,21.59,AB,p48,3,,MJD,True
+56178.209,R,,,,,21.770,AB,p48,3,,MJD,True

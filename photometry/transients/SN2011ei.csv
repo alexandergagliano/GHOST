@@ -1,0 +1,332 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+,C,,,1.0,,12,,Catalina Schmidt,6,,,
+53580.440002,C,,,,,19.11351,,Catalina Schmidt,6,,MJD,True
+53580.559998,C,,,,,19.325539,,Catalina Schmidt,6,,MJD,True
+53593.440002,C,,,,,19.646418,,Catalina Schmidt,6,,MJD,True
+53594.440002,C,,,,,19.858871,,Catalina Schmidt,6,,MJD,True
+53594.559998,C,,,,,19.684212,,Catalina Schmidt,6,,MJD,True
+53606.440002,C,,,,,18.984591,,Catalina Schmidt,6,,MJD,True
+53606.559998,C,,,,,18.829849,,Catalina Schmidt,6,,MJD,True
+53618.440002,C,,,,,19.445681,,Catalina Schmidt,6,,MJD,True
+53618.559998,C,,,,,19.70768,,Catalina Schmidt,6,,MJD,True
+53635.440002,C,,,,,19.058104,,Catalina Schmidt,6,,MJD,True
+53635.559998,C,,,,,19.71332,,Catalina Schmidt,6,,MJD,True
+53651.440002,C,,,,,19.169109,,Catalina Schmidt,6,,MJD,True
+53651.559998,C,,,,,19.453856,,Catalina Schmidt,6,,MJD,True
+53701.440002,C,,,,,18.463453,,Catalina Schmidt,6,,MJD,True
+53701.559998,C,,,,,19.130323,,Catalina Schmidt,6,,MJD,True
+53821.440002,C,,,,,19.548746,,Catalina Schmidt,6,,MJD,True
+53821.559998,C,,,,,18.689459,,Catalina Schmidt,6,,MJD,True
+53851.440002,C,,,,,19.290787,,Catalina Schmidt,6,,MJD,True
+53851.559998,C,,,,,19.914318,,Catalina Schmidt,6,,MJD,True
+53882.440002,C,,,,,19.626581,,Catalina Schmidt,6,,MJD,True
+53882.559998,C,,,,,19.180983,,Catalina Schmidt,6,,MJD,True
+53924.440002,C,,,,,18.872,,Catalina Schmidt,6,,MJD,True
+53924.559998,C,,,,,18.188658,,Catalina Schmidt,6,,MJD,True
+53936.440002,C,,,,,19.978537,,Catalina Schmidt,6,,MJD,True
+53936.559998,C,,,,,18.724894,,Catalina Schmidt,6,,MJD,True
+53945.440002,C,,,,,19.233732,,Catalina Schmidt,6,,MJD,True
+53945.559998,C,,,,,19.003939,,Catalina Schmidt,6,,MJD,True
+53973.440002,C,,,,,19.859182,,Catalina Schmidt,6,,MJD,True
+53973.559998,C,,,,,19.82132,,Catalina Schmidt,6,,MJD,True
+53990.440002,C,,,,,19.50507,,Catalina Schmidt,6,,MJD,True
+53990.559998,C,,,,,19.379284,,Catalina Schmidt,6,,MJD,True
+53994.440002,C,,,,,18.771107,,Catalina Schmidt,6,,MJD,True
+53994.559998,C,,,,,17.530033,,Catalina Schmidt,6,,MJD,True
+54005.440002,C,,,,,19.19372,,Catalina Schmidt,6,,MJD,True
+54005.559998,C,,,,,19.835173,,Catalina Schmidt,6,,MJD,True
+54018.440002,C,,,,,19.480974,,Catalina Schmidt,6,,MJD,True
+54018.559998,C,,,,,19.324917,,Catalina Schmidt,6,,MJD,True
+54034.440002,C,,,,,19.625978,,Catalina Schmidt,6,,MJD,True
+54034.559998,C,,,,,18.97793,,Catalina Schmidt,6,,MJD,True
+54062.440002,C,,,,,18.981207,,Catalina Schmidt,6,,MJD,True
+54062.559998,C,,,,,19.336475,,Catalina Schmidt,6,,MJD,True
+54187.440002,C,,,,,18.808147,,Catalina Schmidt,6,,MJD,True
+54187.559998,C,,,,,18.656269,,Catalina Schmidt,6,,MJD,True
+54210.440002,C,,,,,19.529497,,Catalina Schmidt,6,,MJD,True
+54210.559998,C,,,,,19.80744,,Catalina Schmidt,6,,MJD,True
+54242.440002,C,,,,,19.727646,,Catalina Schmidt,6,,MJD,True
+54242.559998,C,,,,,18.928514,,Catalina Schmidt,6,,MJD,True
+54260.440002,C,,,,,19.543543,,Catalina Schmidt,6,,MJD,True
+54260.559998,C,,,,,19.720079,,Catalina Schmidt,6,,MJD,True
+54273.439941,C,,,,,19.258772,,Catalina Schmidt,6,,MJD,True
+54273.560059,C,,,,,19.958958,,Catalina Schmidt,6,,MJD,True
+54296.439941,C,,,,,19.40387,,Catalina Schmidt,6,,MJD,True
+54296.560059,C,,,,,20.264902,,Catalina Schmidt,6,,MJD,True
+54316.439941,C,,,,,19.479124,,Catalina Schmidt,6,,MJD,True
+54316.560059,C,,,,,19.342224,,Catalina Schmidt,6,,MJD,True
+54349.439941,C,,,,,20.319443,,Catalina Schmidt,6,,MJD,True
+54349.560059,C,,,,,20.166891,,Catalina Schmidt,6,,MJD,True
+54360.439941,C,,,,,19.399593,,Catalina Schmidt,6,,MJD,True
+54360.560059,C,,,,,19.996511,,Catalina Schmidt,6,,MJD,True
+54377.439941,C,,,,,19.923243,,Catalina Schmidt,6,,MJD,True
+54377.560059,C,,,,,19.600008,,Catalina Schmidt,6,,MJD,True
+54388.439941,C,,,,,19.307297,,Catalina Schmidt,6,,MJD,True
+54388.560059,C,,,,,19.539724,,Catalina Schmidt,6,,MJD,True
+54590.439941,C,,,,,19.993126,,Catalina Schmidt,6,,MJD,True
+54590.560059,C,,,,,20.636145,,Catalina Schmidt,6,,MJD,True
+54624.439941,C,,,,,20.414225,,Catalina Schmidt,6,,MJD,True
+54624.560059,C,,,,,20.50536,,Catalina Schmidt,6,,MJD,True
+54644.439941,C,,,,,19.618643,,Catalina Schmidt,6,,MJD,True
+54644.560059,C,,,,,20.226681,,Catalina Schmidt,6,,MJD,True
+54677.439941,C,,,,,19.872761,,Catalina Schmidt,6,,MJD,True
+54677.560059,C,,,,,20.600269,,Catalina Schmidt,6,,MJD,True
+54729.439941,C,,,,,19.861492,,Catalina Schmidt,6,,MJD,True
+54729.560059,C,,,,,19.30209,,Catalina Schmidt,6,,MJD,True
+54740.439941,C,,,,,20.098749,,Catalina Schmidt,6,,MJD,True
+54740.560059,C,,,,,20.0364,,Catalina Schmidt,6,,MJD,True
+54757.439941,C,,,,,19.94372,,Catalina Schmidt,6,,MJD,True
+54757.560059,C,,,,,19.871466,,Catalina Schmidt,6,,MJD,True
+54758.439941,C,,,,,19.833277,,Catalina Schmidt,6,,MJD,True
+54758.560059,C,,,,,19.169577,,Catalina Schmidt,6,,MJD,True
+54944.439941,C,,,,,19.723656,,Catalina Schmidt,6,,MJD,True
+54944.47998,C,,,,,19.173096,,Catalina Schmidt,6,,MJD,True
+54944.52002,C,,,,,20.215412,,Catalina Schmidt,6,,MJD,True
+54944.560059,C,,,,,19.952051,,Catalina Schmidt,6,,MJD,True
+54954.439941,C,,,,,19.5826,,Catalina Schmidt,6,,MJD,True
+54954.47998,C,,,,,19.579775,,Catalina Schmidt,6,,MJD,True
+54954.52002,C,,,,,19.557558,,Catalina Schmidt,6,,MJD,True
+54954.560059,C,,,,,19.570253,,Catalina Schmidt,6,,MJD,True
+55004.439941,C,,,,,19.024315,,Catalina Schmidt,6,,MJD,True
+55004.47998,C,,,,,18.452883,,Catalina Schmidt,6,,MJD,True
+55004.52002,C,,,,,18.575094,,Catalina Schmidt,6,,MJD,True
+55004.560059,C,,,,,17.006937,,Catalina Schmidt,6,,MJD,True
+55044.439941,C,,,,,19.928053,,Catalina Schmidt,6,,MJD,True
+55044.47998,C,,,,,19.973568,,Catalina Schmidt,6,,MJD,True
+55044.52002,C,,,,,19.332729,,Catalina Schmidt,6,,MJD,True
+55044.560059,C,,,,,19.648664,,Catalina Schmidt,6,,MJD,True
+55060.439941,C,,,,,20.16431,,Catalina Schmidt,6,,MJD,True
+55060.47998,C,,,,,20.257406,,Catalina Schmidt,6,,MJD,True
+55060.52002,C,,,,,19.758892,,Catalina Schmidt,6,,MJD,True
+55060.560059,C,,,,,20.18375,,Catalina Schmidt,6,,MJD,True
+55084.439941,C,,,,,20.02076,,Catalina Schmidt,6,,MJD,True
+55084.47998,C,,,,,20.096634,,Catalina Schmidt,6,,MJD,True
+55084.52002,C,,,,,19.031048,,Catalina Schmidt,6,,MJD,True
+55084.560059,C,,,,,19.9083,,Catalina Schmidt,6,,MJD,True
+55127.439941,C,,,,,19.48844,,Catalina Schmidt,6,,MJD,True
+55127.47998,C,,,,,19.432928,,Catalina Schmidt,6,,MJD,True
+55127.52002,C,,,,,19.555048,,Catalina Schmidt,6,,MJD,True
+55127.560059,C,,,,,19.724287,,Catalina Schmidt,6,,MJD,True
+55330.439941,C,,,,,19.87631,,Catalina Schmidt,6,,MJD,True
+55330.47998,C,,,,,19.751089,,Catalina Schmidt,6,,MJD,True
+55330.52002,C,,,,,19.870071,,Catalina Schmidt,6,,MJD,True
+55330.560059,C,,,,,20.01141,,Catalina Schmidt,6,,MJD,True
+55362.439941,C,,,,,20.544594,,Catalina Schmidt,6,,MJD,True
+55362.47998,C,,,,,20.297846,,Catalina Schmidt,6,,MJD,True
+55362.52002,C,,,,,20.54357,,Catalina Schmidt,6,,MJD,True
+55362.560059,C,,,,,20.38365,,Catalina Schmidt,6,,MJD,True
+55389.439941,C,,,,,18.669424,,Catalina Schmidt,6,,MJD,True
+55389.47998,C,,,,,19.353418,,Catalina Schmidt,6,,MJD,True
+55394.439941,C,,,,,20.504589,,Catalina Schmidt,6,,MJD,True
+55394.47998,C,,,,,20.397186,,Catalina Schmidt,6,,MJD,True
+55394.52002,C,,,,,19.765425,,Catalina Schmidt,6,,MJD,True
+55394.560059,C,,,,,20.30468,,Catalina Schmidt,6,,MJD,True
+55418.439941,C,,,,,19.241846,,Catalina Schmidt,6,,MJD,True
+55418.47998,C,,,,,19.148417,,Catalina Schmidt,6,,MJD,True
+55418.52002,C,,,,,19.982489,,Catalina Schmidt,6,,MJD,True
+55418.560059,C,,,,,19.788181,,Catalina Schmidt,6,,MJD,True
+55449.439941,C,,,,,19.767147,,Catalina Schmidt,6,,MJD,True
+55449.47998,C,,,,,20.180683,,Catalina Schmidt,6,,MJD,True
+55449.52002,C,,,,,19.826956,,Catalina Schmidt,6,,MJD,True
+55449.560059,C,,,,,19.945728,,Catalina Schmidt,6,,MJD,True
+55468.439941,C,,,,,19.250734,,Catalina Schmidt,6,,MJD,True
+55468.47998,C,,,,,20.409058,,Catalina Schmidt,6,,MJD,True
+55468.52002,C,,,,,19.185249,,Catalina Schmidt,6,,MJD,True
+55468.560059,C,,,,,19.76428,,Catalina Schmidt,6,,MJD,True
+55506.439941,C,,,,,18.915493,,Catalina Schmidt,6,,MJD,True
+55506.47998,C,,,,,19.899532,,Catalina Schmidt,6,,MJD,True
+55506.52002,C,,,,,19.810524,,Catalina Schmidt,6,,MJD,True
+55506.560059,C,,,,,19.303108,,Catalina Schmidt,6,,MJD,True
+55664.439941,C,,,,,20.028269,,Catalina Schmidt,6,,MJD,True
+55664.47998,C,,,,,20.048941,,Catalina Schmidt,6,,MJD,True
+55664.52002,C,,,,,19.418543,,Catalina Schmidt,6,,MJD,True
+55664.560059,C,,,,,19.15259,,Catalina Schmidt,6,,MJD,True
+55696.439941,C,,,,,19.669109,,Catalina Schmidt,6,,MJD,True
+55696.47998,C,,,,,19.538378,,Catalina Schmidt,6,,MJD,True
+55696.52002,C,,,,,19.480825,,Catalina Schmidt,6,,MJD,True
+55696.560059,C,,,,,19.204264,,Catalina Schmidt,6,,MJD,True
+55739.439941,C,,,,,20.271709,,Catalina Schmidt,6,,MJD,True
+55739.47998,C,,,,,19.052618,,Catalina Schmidt,6,,MJD,True
+55739.52002,C,,,,,19.774952,,Catalina Schmidt,6,,MJD,True
+55739.560059,C,,,,,20.387444,,Catalina Schmidt,6,,MJD,True
+55770.439941,C,,,,,20.639145,,Catalina Schmidt,6,,MJD,True
+55770.47998,C,,,,,20.563469,,Catalina Schmidt,6,,MJD,True
+55770.52002,C,,,,,20.126654,,Catalina Schmidt,6,,MJD,True
+55770.560059,C,,,,,20.713545,,Catalina Schmidt,6,,MJD,True
+55776.3055,U,,,0.070,,16.641,Vega,Swift,2,,MJD,
+55776.3074,B,,,0.083,,17.689,Vega,Swift,2,,MJD,
+55776.3121,UVW2,,,0.229,,19.514,Vega,Swift,2,,MJD,
+55776.3177,V,,,0.093,,17.362,Vega,Swift,2,,MJD,
+55776.3239,UVM2,,,,,20.015,Vega,Swift,2,,MJD,True
+55776.3349,UVW1,,,0.136,,18.428,Vega,Swift,2,,MJD,
+55777.2111,UVW1,,,0.268,,18.958,Vega,Swift,2,,MJD,
+55777.2124,U,,,0.092,,16.705,Vega,Swift,2,,MJD,
+55777.2130,B,,,0.123,,17.885,Vega,Swift,2,,MJD,
+55777.2148,UVW2,,,0.311,,19.528,Vega,Swift,2,,MJD,
+55777.2166,V,,,0.140,,17.219,Vega,Swift,2,,MJD,
+55777.2195,UVM2,,,,,19.718,Vega,Swift,2,,MJD,True
+55778.0088,UVW1,,,0.206,,18.329,Vega,Swift,2,,MJD,
+55778.0103,U,,,0.103,,16.649,Vega,Swift,2,,MJD,
+55778.0111,B,,,0.112,,17.425,Vega,Swift,2,,MJD,
+55778.0134,UVW2,,,,,19.627,Vega,Swift,2,,MJD,True
+55778.0156,V,,,0.178,,17.329,Vega,Swift,2,,MJD,
+55778.0188,UVM2,,,,,19.494,Vega,Swift,2,,MJD,True
+55778.8197,UVW1,,,0.152,,18.209,Vega,Swift,2,,MJD,
+55778.8204,U,,,0.084,,16.622,Vega,Swift,2,,MJD,
+55778.8208,B,,,0.094,,17.480,Vega,Swift,2,,MJD,
+55778.8217,UVW2,,,0.349,,19.791,Vega,Swift,2,,MJD,
+55778.8228,V,,,0.128,,17.225,Vega,Swift,2,,MJD,
+55778.8243,UVM2,,,,,19.794,Vega,Swift,2,,MJD,True
+55780.1282,UVW1,,,0.168,,18.347,Vega,Swift,2,,MJD,
+55780.1297,U,,,0.084,,16.578,Vega,Swift,2,,MJD,
+55780.1305,B,,,0.093,,17.417,Vega,Swift,2,,MJD,
+55780.1327,UVW2,,,0.328,,19.681,Vega,Swift,2,,MJD,
+55780.1350,V,,,0.125,,17.140,Vega,Swift,2,,MJD,
+55780.1384,UVM2,,,,,19.776,Vega,Swift,2,,MJD,True
+55782.1026,UVW1,,,0.169,,18.366,Vega,Swift,2,,MJD,
+55782.1039,U,,,0.086,,16.675,Vega,Swift,2,,MJD,
+55782.1047,B,,,0.094,,17.447,Vega,Swift,2,,MJD,
+55782.1076,UVW2,,,0.319,,19.650,Vega,Swift,2,,MJD,
+55782.1094,V,,,0.114,,16.976,Vega,Swift,2,,MJD,
+55782.1137,UVM2,,,0.371,,19.742,Vega,Swift,2,,MJD,
+55783.2442,UVW1,,,0.281,,18.553,Vega,Swift,2,,MJD,
+55783.2452,U,,,0.118,,16.657,Vega,Swift,2,,MJD,
+55783.2457,B,,,0.129,,17.420,Vega,Swift,2,,MJD,
+55783.2472,UVW2,,,,,19.390,Vega,Swift,2,,MJD,True
+55783.2487,V,,,0.149,,16.712,Vega,Swift,2,,MJD,
+55783.2509,UVM2,,,,,19.312,Vega,Swift,2,,MJD,True
+55787.6231,UVW1,,,0.276,,19.089,Vega,Swift,2,,MJD,
+55787.6244,U,,,0.108,,17.245,Vega,Swift,2,,MJD,
+55787.6251,B,,,0.098,,17.524,Vega,Swift,2,,MJD,
+55787.6279,UVW2,,,,,19.950,Vega,Swift,2,,MJD,True
+55787.6296,V,,,0.108,,16.848,Vega,Swift,2,,MJD,
+55787.6338,UVM2,,,,,19.776,Vega,Swift,2,,MJD,True
+55788.4579,UVW1,,,0.288,,19.156,Vega,Swift,2,,MJD,
+55788.4591,U,,,0.115,,17.400,Vega,Swift,2,,MJD,
+55788.4600,B,,,0.098,,17.539,Vega,Swift,2,,MJD,
+55788.4628,UVW2,,,,,19.960,Vega,Swift,2,,MJD,True
+55788.4645,V,,,0.114,,16.987,Vega,Swift,2,,MJD,
+55788.4689,UVM2,,,,,19.781,Vega,Swift,2,,MJD,True
+55791.5350,UVW1,,,0.341,,19.377,Vega,Swift,2,,MJD,
+55791.5368,U,,,0.167,,18.092,Vega,Swift,2,,MJD,
+55791.5376,B,,,0.115,,17.875,Vega,Swift,2,,MJD,
+55791.5393,UVW2,,,,,19.957,Vega,Swift,2,,MJD,True
+55791.5422,V,,,0.123,,17.127,Vega,Swift,2,,MJD,
+55791.5444,UVM2,,,,,19.760,Vega,Swift,2,,MJD,True
+55792.1269,UVW1,,,,,18.974,Vega,Swift,2,,MJD,True
+55792.1279,U,,,0.232,,17.956,Vega,Swift,2,,MJD,
+55792.1285,B,,,0.181,,18.026,Vega,Swift,2,,MJD,
+55792.1297,UVW2,,,,,19.232,Vega,Swift,2,,MJD,True
+55793.5121,UVW1,,,,,19.130,Vega,Swift,2,,MJD,True
+55793.5127,U,,,0.347,,18.717,Vega,Swift,2,,MJD,
+55793.5131,B,,,0.176,,18.153,Vega,Swift,2,,MJD,
+55793.5142,UVW2,,,,,19.550,Vega,Swift,2,,MJD,True
+55793.5151,V,,,0.180,,17.249,Vega,Swift,2,,MJD,
+55793.5158,UVM2,,,,,19.158,Vega,Swift,2,,MJD,True
+55794.6850,UVW1,,,,,19.449,Vega,Swift,2,,MJD,True
+55794.6859,U,,,0.240,,18.549,Vega,Swift,2,,MJD,
+55794.6863,B,,,0.156,,18.311,Vega,Swift,2,,MJD,
+55794.6878,UVW2,,,,,19.875,Vega,Swift,2,,MJD,True
+55794.6890,V,,,0.165,,17.513,Vega,Swift,2,,MJD,
+55794.6911,UVM2,,,,,19.671,Vega,Swift,2,,MJD,True
+55795.439941,C,,,0.070069,,17.122616,,Catalina Schmidt,6,,MJD,
+55795.47998,C,,,0.034741,,15.771044,,Catalina Schmidt,6,,MJD,
+55795.4934,V,,,0.228,,17.452,Vega,Swift,2,,MJD,
+55795.4955,UVM2,,,,,19.275,Vega,Swift,2,,MJD,True
+55795.52002,C,,,,,20.20421,,Catalina Schmidt,6,,MJD,True
+55795.560059,C,,,0.080893,,16.910805,,Catalina Schmidt,6,,MJD,
+55795.6245,UVW1,,,,,19.527,Vega,Swift,2,,MJD,True
+55795.6257,U,,,0.275,,18.829,Vega,Swift,2,,MJD,
+55795.6265,B,,,0.169,,18.531,Vega,Swift,2,,MJD,
+55795.6284,UVW2,,,,,19.818,Vega,Swift,2,,MJD,True
+55796.6596,UVW1,,,,,19.392,Vega,Swift,2,,MJD,True
+55796.6606,U,,,,,19.083,Vega,Swift,2,,MJD,True
+55796.6612,B,,,0.221,,18.767,Vega,Swift,2,,MJD,
+55796.6631,UVW2,,,,,19.816,Vega,Swift,2,,MJD,True
+55796.6645,V,,,0.196,,17.705,Vega,Swift,2,,MJD,
+55796.6671,UVM2,,,,,19.639,Vega,Swift,2,,MJD,True
+55798.4165,UVW1,,,,,19.408,Vega,Swift,2,,MJD,True
+55798.4175,U,,,,,19.111,Vega,Swift,2,,MJD,True
+55798.4180,B,,,0.216,,18.762,Vega,Swift,2,,MJD,
+55798.4193,UVW2,,,,,19.839,Vega,Swift,2,,MJD,True
+55798.4208,V,,,0.266,,18.174,Vega,Swift,2,,MJD,
+55798.4226,UVM2,,,,,19.700,Vega,Swift,2,,MJD,True
+55800.6026,UVW1,,,,,19.519,Vega,Swift,2,,MJD,True
+55800.6032,U,,,,,19.225,Vega,Swift,2,,MJD,True
+55800.6036,B,,,0.322,,19.404,Vega,Swift,2,,MJD,
+55800.6046,UVW2,,,,,19.949,Vega,Swift,2,,MJD,True
+55800.6056,V,,,0.175,,17.705,Vega,Swift,2,,MJD,
+55800.6071,UVM2,,,,,19.771,Vega,Swift,2,,MJD,True
+55802.6074,UVW1,,,,,19.503,Vega,Swift,2,,MJD,True
+55802.6084,U,,,,,19.217,Vega,Swift,2,,MJD,True
+55802.6089,B,,,0.225,,18.920,Vega,Swift,2,,MJD,
+55802.6100,UVW2,,,,,19.935,Vega,Swift,2,,MJD,True
+55802.6115,V,,,0.187,,17.792,Vega,Swift,2,,MJD,
+55802.6131,UVM2,,,,,19.763,Vega,Swift,2,,MJD,True
+55804.5837,UVW1,,,,,19.481,Vega,Swift,2,,MJD,True
+55804.5845,U,,,,,19.191,Vega,Swift,2,,MJD,True
+55804.5850,B,,,0.345,,19.459,Vega,Swift,2,,MJD,
+55804.5862,UVW2,,,,,19.758,Vega,Swift,2,,MJD,True
+55804.5874,V,,,0.243,,17.848,Vega,Swift,2,,MJD,
+55804.5891,UVM2,,,,,19.524,Vega,Swift,2,,MJD,True
+55806.5728,UVW1,,,,,19.431,Vega,Swift,2,,MJD,True
+55806.5738,U,,,,,19.134,Vega,Swift,2,,MJD,True
+55806.5742,B,,,,,19.527,Vega,Swift,2,,MJD,True
+55806.5755,UVW2,,,,,19.861,Vega,Swift,2,,MJD,True
+55806.5769,V,,,0.232,,18.023,Vega,Swift,2,,MJD,
+55806.5787,UVM2,,,,,19.704,Vega,Swift,2,,MJD,True
+55808.7920,UVW1,,,,,18.994,Vega,Swift,2,,MJD,True
+55808.7930,U,,,,,18.684,Vega,Swift,2,,MJD,True
+55808.7936,B,,,,,19.110,Vega,Swift,2,,MJD,True
+55808.7951,UVW2,,,,,19.407,Vega,Swift,2,,MJD,True
+55808.7966,V,,,,,18.161,Vega,Swift,2,,MJD,True
+55808.7988,UVM2,,,,,19.302,Vega,Swift,2,,MJD,True
+55810.2959,UVW1,,,,,19.369,Vega,Swift,2,,MJD,True
+55810.2966,U,,,,,19.062,Vega,Swift,2,,MJD,True
+55810.2970,B,,,0.266,,19.013,Vega,Swift,2,,MJD,
+55810.2982,UVW2,,,,,19.802,Vega,Swift,2,,MJD,True
+55810.2992,V,,,0.251,,18.070,Vega,Swift,2,,MJD,
+55810.3008,UVM2,,,,,19.644,Vega,Swift,2,,MJD,True
+55814.7413,UVW1,,,,,19.434,Vega,Swift,2,,MJD,True
+55814.7426,U,,,,,19.142,Vega,Swift,2,,MJD,True
+55814.7433,B,,,0.351,,19.440,Vega,Swift,2,,MJD,
+55814.7452,UVW2,,,,,19.868,Vega,Swift,2,,MJD,True
+55814.7470,V,,,0.219,,17.950,Vega,Swift,2,,MJD,
+55814.7498,UVM2,,,,,19.699,Vega,Swift,2,,MJD,True
+55830.439941,C,,,,,19.550077,,Catalina Schmidt,6,,MJD,True
+55830.47998,C,,,,,19.806732,,Catalina Schmidt,6,,MJD,True
+55830.52002,C,,,,,20.405014,,Catalina Schmidt,6,,MJD,True
+55830.560059,C,,,,,19.698532,,Catalina Schmidt,6,,MJD,True
+55861.439941,C,,,,,19.978369,,Catalina Schmidt,6,,MJD,True
+55861.47998,C,,,,,19.823204,,Catalina Schmidt,6,,MJD,True
+55861.52002,C,,,,,20.094231,,Catalina Schmidt,6,,MJD,True
+55861.560059,C,,,,,20.106497,,Catalina Schmidt,6,,MJD,True
+56013.7402,V,,,,,18.794,Vega,Swift,2,,MJD,True
+56013.7416,U,,,,,16.983,Vega,Swift,2,,MJD,True
+56019.439941,C,,,,,19.4475,,Catalina Schmidt,6,,MJD,True
+56019.47998,C,,,,,19.089457,,Catalina Schmidt,6,,MJD,True
+56019.52002,C,,,,,20.064589,,Catalina Schmidt,6,,MJD,True
+56019.560059,C,,,,,20.029234,,Catalina Schmidt,6,,MJD,True
+56023.0273,V,,,,,18.897,Vega,Swift,2,,MJD,True
+56023.0308,U,,,,,19.405,Vega,Swift,2,,MJD,True
+56023.0340,B,,,,,19.628,Vega,Swift,2,,MJD,True
+56065.439941,C,,,,,19.889994,,Catalina Schmidt,6,,MJD,True
+56065.47998,C,,,,,19.827814,,Catalina Schmidt,6,,MJD,True
+56065.52002,C,,,,,20.015741,,Catalina Schmidt,6,,MJD,True
+56065.560059,C,,,,,19.625957,,Catalina Schmidt,6,,MJD,True
+56097.439941,C,,,,,19.44944,,Catalina Schmidt,6,,MJD,True
+56097.47998,C,,,,,19.638453,,Catalina Schmidt,6,,MJD,True
+56097.52002,C,,,,,19.8388,,Catalina Schmidt,6,,MJD,True
+56097.560059,C,,,,,19.129581,,Catalina Schmidt,6,,MJD,True
+56129.439941,C,,,,,19.614803,,Catalina Schmidt,6,,MJD,True
+56129.47998,C,,,,,20.659912,,Catalina Schmidt,6,,MJD,True
+56129.52002,C,,,,,20.417219,,Catalina Schmidt,6,,MJD,True
+56129.560059,C,,,,,19.411886,,Catalina Schmidt,6,,MJD,True
+56154.439941,C,,,,,20.50886,,Catalina Schmidt,6,,MJD,True
+56154.47998,C,,,,,20.53138,,Catalina Schmidt,6,,MJD,True
+56154.52002,C,,,,,20.129868,,Catalina Schmidt,6,,MJD,True
+56154.560059,C,,,,,19.700418,,Catalina Schmidt,6,,MJD,True
+56184.439941,C,,,,,20.567444,,Catalina Schmidt,6,,MJD,True
+56184.47998,C,,,,,20.602484,,Catalina Schmidt,6,,MJD,True
+56184.52002,C,,,,,20.385607,,Catalina Schmidt,6,,MJD,True
+56184.560059,C,,,,,19.968378,,Catalina Schmidt,6,,MJD,True

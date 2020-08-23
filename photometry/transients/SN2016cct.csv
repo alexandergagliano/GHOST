@@ -1,0 +1,9 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+57512.37,V,,,,,17.9,Vega,ASASSN-1,7,,MJD,True
+57520.36,V,,,,,16.9,Vega,ASASSN-1,7,,MJD,
+57526.3481580092,i,,,0.0326258,,17.5252,,Pan-STARRS1,"1,5",,MJD,
+57526.3604377727,i,,,0.0399319,,17.5555,,Pan-STARRS1,"1,5",,MJD,
+57526.3727070497,i,,,0.0313004,,17.5106,,Pan-STARRS1,"1,5",,MJD,
+57526.3849872187,i,,,0.0531101,,17.5649,,Pan-STARRS1,"1,5",,MJD,
+57532.3155180635,i,,,0.0381241,,17.8276,,Pan-STARRS1,"1,5",,MJD,
+57532.3269926966,i,,,0.0268788,,17.8142,,Pan-STARRS1,"1,5",,MJD,

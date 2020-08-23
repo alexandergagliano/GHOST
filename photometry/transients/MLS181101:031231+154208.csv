@@ -1,0 +1,17 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+,C,,,1.0,,21.5,,Catalina Schmidt,1,,,True
+54052.278997188,C,,,0.217510042117,,20.861,,Catalina Schmidt,1,,MJD,
+54791.20862311,C,,,0.265743338088,,21.1844,,Catalina Schmidt,1,,MJD,
+57697.5,C,,,0.348756819385,,22.3399,,Catalina Schmidt,1,,MJD,
+58423.5,C,,,0.118006714325,,20.167,,Catalina Schmidt,1,,MJD,
+58423.5,C,,,0.121055163269,,20.189,,Catalina Schmidt,1,,MJD,
+58423.5,C,,,0.125654915249,,20.3239,,Catalina Schmidt,1,,MJD,
+58423.5,C,,,0.124941350546,,20.3272,,Catalina Schmidt,1,,MJD,
+58431.5,C,,,0.117707684267,,20.163,,Catalina Schmidt,1,,MJD,
+58431.5,C,,,0.124353859214,,20.3101,,Catalina Schmidt,1,,MJD,
+58431.5,C,,,0.12496947068,,20.3201,,Catalina Schmidt,1,,MJD,
+58431.5,C,,,0.126946044977,,20.3586,,Catalina Schmidt,1,,MJD,
+58439.5,C,,,0.131740010016,,20.4481,,Catalina Schmidt,1,,MJD,
+58439.5,C,,,0.148092486853,,20.7352,,Catalina Schmidt,1,,MJD,
+58439.5,C,,,0.162151326435,,20.9437,,Catalina Schmidt,1,,MJD,
+58456.5,C,,,0.240711513568,,21.7264,,Catalina Schmidt,1,,MJD,

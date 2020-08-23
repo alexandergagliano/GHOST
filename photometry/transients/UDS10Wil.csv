@@ -1,0 +1,16 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+55508.1,814W,,,,,29.476,,HST,3,,MJD,True
+55511.2,125W,,,,,27.890,,HST,3,,MJD,
+55511.2,160W,,,,,28.216,,HST,3,,MJD,
+55557.4,814W,,,,,29.7752,,HST,3,,MJD,True
+55560.7,160W,,,,,27.284,,HST,3,,MJD,
+55560.8,125W,,,,,27.132,,HST,3,,MJD,
+55573.6,160W,,,,,27.613,,HST,3,,MJD,
+55573.8,125W,,,,,27.799,,HST,3,,MJD,
+55574.6,850LP,,,,,29.9470,,HST,3,,MJD,True
+55584.3,160W,,,,,27.770,,HST,3,,MJD,
+55584.4,125W,,,,,28.179,,HST,3,,MJD,
+55596.1,125W,,,,,28.399,,HST,3,,MJD,
+55596.1,160W,,,,,28.389,,HST,3,,MJD,
+55608.1,160W,,,,,28.775,,HST,3,,MJD,
+55608.2,125W,,,,,29.344,,HST,3,,MJD,

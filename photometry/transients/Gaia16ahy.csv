@@ -1,0 +1,7 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+57428.3169907,G,,,,,21.5,,Gaia,4,,MJD,True
+57460.4759954,G,,,0.2,,17.42,,Gaia,4,,MJD,
+57460.977,G,,,0.0,,17.39,,GAIA,2,,MJD,
+57461.051,G,,,0.0,,17.34,,GAIA,2,,MJD,
+57468.0733,g,,,,,20.7122,,,"3,5",,MJD,
+57468.0781,r,,,,,20.6137,,,"3,5",,MJD,

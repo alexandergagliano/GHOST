@@ -1,0 +1,21 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+50246.10,RM,,,,,19.110,,MSSSO 1.3m,4,,MJD,
+50246.10,VM,,,,,19.652,,MSSSO 1.3m,4,,MJD,
+50248.31,RM,,,,,18.983,,MSSSO 1.3m,4,,MJD,
+50248.31,VM,,,,,19.409,,MSSSO 1.3m,4,,MJD,
+50254.43,R,,,,,19.022,,CTIO,4,,MJD,
+50255.32,RM,,,,,18.974,,MSSSO 1.3m,4,,MJD,
+50255.32,VM,,,,,19.645,,MSSSO 1.3m,4,,MJD,
+50255.73,B,,,,,20.452,,CTIO,4,,MJD,
+50255.73,I,,,,,18.883,,CTIO,4,,MJD,
+50255.73,V,,,,,19.456,,CTIO,4,,MJD,
+50267.43,RM,,,,,19.808,,MSSSO 1.3m,4,,MJD,
+50267.43,VM,,,,,20.953,,MSSSO 1.3m,4,,MJD,
+50276.26,RM,,,,,20.691,,MSSSO 1.3m,4,,MJD,
+50276.26,VM,,,,,21.547,,MSSSO 1.3m,4,,MJD,
+50276.31,RM,,,,,21.002,,MSSSO 1.3m,4,,MJD,
+50276.31,VM,,,,,21.645,,MSSSO 1.3m,4,,MJD,
+50288.71,I,,,,,21.961,,CTIO,4,,MJD,True
+50288.71,V,,,,,21.683,,CTIO,4,,MJD,
+50297.34,RM,,,,,22.134,,MSSSO 1.3m,4,,MJD,
+50297.34,VM,,,,,22.273,,MSSSO 1.3m,4,,MJD,True

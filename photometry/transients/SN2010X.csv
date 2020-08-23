@@ -1,0 +1,25 @@
+time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
+55207.3,r,,,,,20.91,,Palomar 48-in,5,,MJD,True
+55207.4,r,,,,,20.85,,Palomar 48-in,5,,MJD,True
+55213.2,r,,,,,20.48,,Palomar 48-in,5,,MJD,True
+55221.2,r,,,,,20.42,,Palomar 48-in,5,,MJD,True
+55234.1,r,,,0.15,,17.95,,Rich,5,,MJD,
+55237.1,r,,,0.12,,17.43,,Rich,5,,MJD,
+55239.2,r,,,0.19,,17.41,,Brimacombe,5,,MJD,
+55246.1,r,,,0.09,,17.84,,Palomar 48-in,5,,MJD,
+55246.2,r,,,0.10,,17.79,,Palomar 48-in,5,,MJD,
+55246.3,r,,,0.09,,17.78,,Palomar 48-in,5,,MJD,
+55246.3,r,,,0.09,,17.83,,Palomar 48-in,5,,MJD,
+55251.1,r,,,0.12,,18.77,,Palomar 48-in,5,,MJD,
+55251.3,g,,,0.18,,19.61,,LCOGT/FTN,5,,MJD,
+55251.3,i,,,0.12,,18.74,,LCOGT/FTN,5,,MJD,
+55251.3,r,,,0.10,,18.87,,LCOGT/FTN,5,,MJD,
+55254.3,g,,,0.34,,21.02,,LCOGT/FTN,5,,MJD,
+55254.3,i,,,0.14,,19.57,,LCOGT/FTN,5,,MJD,
+55254.3,r,,,0.13,,19.74,,LCOGT/FTN,5,,MJD,
+55255.3,r,,,0.11,,19.96,,LCOGT/FTN,5,,MJD,
+55256.3,g,,,,,20.66,,LCOGT/FTN,5,,MJD,True
+55256.3,i,,,0.17,,20.39,,LCOGT/FTN,5,,MJD,
+55268.1,r,,,,,20.72,,Palomar 48-in,5,,MJD,True
+55282.3,r,,,,,20.70,,LCOGT/FTN,5,,MJD,True
+55294.1,r,,,,,22.55,,Palomar 200-in,5,,MJD,True

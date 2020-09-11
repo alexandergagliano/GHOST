@@ -67,7 +67,7 @@ def get_hosts(path, transient_fn, fn_Host, rad):
     transient_df = pd.read_csv(path+transient_fn)
     now = datetime.now()
     dateStr = "%i%.02i%.02i" % (now.year,now.month,now.day)
-    dict_fn = fn_Host.strip(".csv") + ".p"
+    dict_fn = fn_Host.replace(".csv", "") + ".p"
     find_host_info_PS1(transient_df, fn_Host, dict_fn, path, rad)
     host_df = pd.read_csv(path+fn_Host)
     host_df = host_df.drop_duplicates()
@@ -450,14 +450,14 @@ def find_host_info_PS1(df, fn, dict_fn, path, rad):
                 PS1_hosts = pd.concat(PS1_queries)
                 PS1_hosts = PS1_hosts.drop_duplicates()
                 PS1_queries = []
+                if i == 0:
+                    PS1_hosts.to_csv(fn, header=True)
+                    i = 1
+                else:
+                    PS1_hosts.to_csv(fn, mode='a+', header=False)
             else:
                 print("No potential hosts found for this object...")
             # Save host info
-            if i == 0:
-              PS1_hosts.to_csv(fn, header=True)
-              i = 1
-            else:
-              PS1_hosts.to_csv(fn, mode='a+', header=False)
 
             with open("./dictionaries/" + dict_fn, 'wb') as fp:
                 pickle.dump(SN_Host_PS1, fp, protocol=pickle.HIGHEST_PROTOCOL)

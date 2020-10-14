@@ -1,8 +1,0 @@
-time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
-58508.1065278,C,,,,,18.5,Vega,KAIT,5,,MJD,True
-58700.32,g,,,,,18.2,,ASASSN-2,5,,MJD,True
-58700.6319907,orange,,,,,18.43,,ATLAS1,5,,MJD,True
-58702.4,g,,,,,17.4,,ASASSN-2,5,,MJD,
-58702.5179977,cyan,,,0.026,,17.411,,ATLAS1,5,,MJD,
-58748.5139699,C,,,0.1,,18,Vega,KAIT,5,,MJD,
-58762.4979977,w,,,0.02,,18.61,,PS1,5,,MJD,

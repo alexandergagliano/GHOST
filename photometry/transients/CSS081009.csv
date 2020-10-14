@@ -1,7 +1,0 @@
-time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
-54781.2736,UVW2,,,,,20.118,Vega,Swift,1,,MJD,True
-54781.2767,UVM2,,,0.296,,19.779,Vega,Swift,1,,MJD,
-54781.2804,UVW1,,,0.296,,19.508,Vega,Swift,1,,MJD,
-54781.5413,V,,,,,18.824,Vega,Swift,1,,MJD,True
-54781.5442,U,,,0.183,,18.825,Vega,Swift,1,,MJD,
-54781.5469,B,,,0.214,,19.450,Vega,Swift,1,,MJD,

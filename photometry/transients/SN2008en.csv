@@ -1,8 +1,0 @@
-time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
-54680.5,,,,,,18.3,,,"7,9",,MJD,
-55067,I1,,,0.11,,15.16,,Spitzer,5,,MJD,
-55067,I2,,,0.11,,14.51,,Spitzer,5,,MJD,
-55812,I1,,,0.22,,16.58,,Spitzer,3,,MJD,
-55812,I2,,,0.18,,15.63,,Spitzer,3,,MJD,
-56378,I1,,,0.30,,17.28,,Spitzer,1,,MJD,
-56378,I2,,,0.25,,16.33,,Spitzer,1,,MJD,

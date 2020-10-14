@@ -1,6 +1,0 @@
-time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
-58174.4252546,V-crts,,,,,20,,,3,,MJD,True
-58185.5859954,orange,,,,,18.97,,ATLAS1,3,,MJD,True
-58185.6059954,orange,,,0.163,,18.554,,ATLAS1,3,,MJD,
-58194.4128935,V-crts,,,,,17.5,,,3,,MJD,
-58199.5,,,,,,17.5,,,"3,5",,MJD,

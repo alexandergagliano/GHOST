@@ -1,8 +1,0 @@
-time,band,bandset,e_fluxdensity,e_magnitude,fluxdensity,magnitude,system,telescope,source,u_fluxdensity,u_time,upperlimit
-52629.12,F606W,,,0.01,,22.27,Vega,,10,,MJD,
-52629.12,F775W,,,0.02,,21.78,Vega,Hubble,10,,MJD,
-52629.12,F850LP,,,0.01,,21.66,Vega,Hubble,10,,MJD,
-52642.0,F775W,,,0.1,,21.32,Vega,Hubble,10,,MJD,
-52671.83,F606W,,,0.01,,23.25,Vega,,10,,MJD,
-52671.83,F775W,,,0.01,,22.08,Vega,Hubble,10,,MJD,
-52671.83,F850LP,,,0.01,,21.89,Vega,Hubble,10,,MJD,
